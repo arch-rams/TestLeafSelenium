@@ -1,0 +1,3 @@
+Armstrong Number
+Fibonacci Series
+Prime Number
